@@ -1,6 +1,21 @@
 ## Reading Section
 ### Content:
 - 2 passages (About 700 words each), 10 questions each
+
+### Time Management :
+    Read and Take note on the title and fisrt sentence of each paragraph 1 [36:35]
+  
+     answer 1 to 5 : [answer by 26.30]
+  
+     answer 6 to 10 : [18:00]
+
+  
+     Read and take note of title and first sentence of each paragrapg [17:00]
+      
+      answer 11 to 15 : [8:30]
+       answer 16 to 20: [0:00]
+
+reference: https://www.youtube.com/watch?v=tjGQt7rf7VM 
 ### Time:
 - **Reading & Answering**: 36 minutes
 ### Types of questions
