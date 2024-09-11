@@ -28,3 +28,20 @@ https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/TOEFL9.p
 
 https://www.toeflresources.com/sample-toefl-essays/ 
 https://github.com/armiro/TOEFL-iBT-Writing-Samples/tree/master/TPO%2046%20-%20Integrated%20Task 
+https://bettertoeflscores.com/ 
+https://www.bestmytest.com/toefl/reading?gad_source=1&gclid=CjwKCAjwufq2BhAmEiwAnZqw8jaiURZjmfghq3KsG4sUCIJF8FJgOwxJnbCfg-ASdPFLo_21vecpExoC7QAQAvD_BwE 
+blog:
+  https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html 
+  https://github.com/naosk8/toefl-tips 
+  https://github.com/atharva253/GRE_TOEFL/blob/main/TOEFL/README.md 
+  https://github.com/topics/toefl-ibt?o=asc&s=updated 
+  https://github.com/Mushtari-Sadia/TOEFL-prep?tab=readme-ov-file#ataf-fazledin-ahamed 
+https://github.com/armiro/TOEFL-iBT-Writing-Samples/blob/master/TOEFL%20iBT%20on%20May%202018%20-%20Independent%20Task/sample%20%231%20score%20%2327.docx 
+https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/TOEFL9.pdf 
+ETS Practice : 
+  https://www.ets.org/pdfs/toefl/toefl-ibt-free-practice-test.pdf 
+  https://www.geeksforgeeks.org/new-toefl-format/ 
+  https://www.geeksforgeeks.org/toefl-2024-practice-tests-free/ 
+
+  Format: 
+    https://github.com/mtiessler/TOEFL-iBT-study-sheet 
