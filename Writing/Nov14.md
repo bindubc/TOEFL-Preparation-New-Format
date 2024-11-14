@@ -20,8 +20,9 @@ Second, the theory of global cooling caused by sulfur dioxide is also questioned
 
 Finally, the asteroid impact theory is largely dismissed by scientists. While an asteroid impact can create a large crater, there is no evidence of a crater from that period. The only crater found dates back about 12 million years before the extinction event, which is far too early to be linked to the Triassic extinction. Therefore, the asteroid theory seems unlikely to explain the event.
 
+-----
 
-** Passage **
+**Passage**
 
 
 
