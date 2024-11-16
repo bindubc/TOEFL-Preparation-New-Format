@@ -102,3 +102,86 @@ To score a perfect 6/6 on the TOEFL Integrated Essay and Writing for Academic Di
 - **Time Management:** Plan your essay, write, and revise it within the time limit.
 
 By following these templates and tips, you can effectively structure your responses to achieve a high score on the TOEFL writing tasks.
+
+
+Here’s a **notes template** that you can use for both the **Integrated Essay** and **Writing for Academic Discussion** sections of the TOEFL exam:
+
+---
+
+### **TOEFL Notes Template**
+
+---
+
+#### **1. Integrated Essay Notes (Reading + Listening)**
+
+**Reading Passage:**
+- **Main Topic:**
+  - (Summarize the general topic of the reading passage.)
+  
+- **Key Points (Main Arguments):**
+  - Point 1: (Briefly note down the first key point in the reading.)
+  - Point 2: (Briefly note the second key point.)
+  - Point 3: (Optional, if there are more points.)
+
+---
+
+**Listening:**
+- **Main Argument:**
+  - (Note the general argument or topic of the lecture.)
+  
+- **Contradictory Points from Listening:**
+  - Point 1: (Note how the speaker disagrees with the reading.)
+  - Point 2: (Note any additional arguments or supporting details the speaker provides.)
+  - Point 3: (Optional, if there are more points.)
+
+---
+
+**Conflict/Contrast:**
+- (Summarize the differences between the reading and listening. Mention how the lecture disagrees with the reading points.)
+
+---
+
+#### **2. Writing for Academic Discussion Notes (Independent Task)**
+
+**Prompt Summary:**
+- (Restate the topic or question being asked in your own words.)
+
+**Your Opinion:**
+- (State your opinion clearly — do you agree, disagree, or have a nuanced opinion?)
+
+---
+
+**Reason 1 (Supporting Your Opinion):**
+- (Note down the first reason why you hold this opinion.)
+- **Example/Explanation:** (Write a brief example or explanation that supports your first reason.)
+
+---
+
+**Reason 2 (Supporting Your Opinion):**
+- (Note down the second reason why you hold this opinion.)
+- **Example/Explanation:** (Write a brief example or explanation that supports your second reason.)
+
+---
+
+**Counterargument (if applicable):**
+- (Briefly mention the opposing viewpoint.)
+- **Rebuttal:** (Provide your rebuttal or explanation of why your argument is stronger.)
+
+---
+
+**Conclusion:**
+- (Summarize your main points and restate your opinion briefly.)
+
+---
+
+### **General Notes for Both Tasks:**
+
+- **Time Management:**
+  - Reading (Integrated Essay): Spend 3 minutes reading and summarizing.
+  - Listening (Integrated Essay): Spend 2 minutes listening and noting key points.
+  - Writing (Independent Task): Spend 1-2 minutes brainstorming and outlining.
+  - Writing Time: Spend 20-25 minutes writing your essay, and 2-3 minutes reviewing.
+
+---
+
+This template will help you structure your notes effectively, allowing you to focus on the main points while organizing your thoughts during the TOEFL exam.
