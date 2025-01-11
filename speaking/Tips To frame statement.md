@@ -6,6 +6,7 @@
 ### **5. Compare-Contrast-Preference (CCP)**   similar, difference , choice and why
 ### **6. Why-What-How (WWH)**  : why something happens, what could be done, how it works
 ### **6. What-What-How (WWH)**   future plan => what matters, as a result, whats benefits for u
+### **7. Opinion-Reason-Impact (ORI)**   opinion => viewpoint/belief , reason, effect
 
  
  follow a structured format to organize your thoughts and keep your responses concise and clear. Below are several formats you can use depending on the type of TOEFL Speaking prompt:
