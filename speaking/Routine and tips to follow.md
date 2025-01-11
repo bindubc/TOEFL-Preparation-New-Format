@@ -20,7 +20,9 @@
   - place making a recommendation
 
 ##### Format:
-Best Format: Point-Reason-Example (PRE)
+Best Format: Point-Reason-Example (PRE) 
+
+Time Chart 10/15-15 Rule 
 
 * 5-7 seconds (Point): In my opinion, [state your preference].
 * 15-20 seconds (Reason):: The main reason is that [explain your reason].
@@ -28,7 +30,9 @@ Best Format: Point-Reason-Example (PRE)
 * 3-5 seconds (Restate): That’s why I believe [restate your point].
 
 
-## q2 Integrated speaking (0-4) : PSR
+## q2 Integrated speaking (0-4) : PSR 
+
+ Time Chart : 10/20-20 Rule
 
 #### Details:
   * read passage
@@ -47,9 +51,9 @@ Best Format: Point-Reason-Example (PRE)
     ##### Format
     Best Format: Problem-Solution-Result (PSR)
 
-      * Problem: The reading and listening discuss a problem, which is [state the issue].
-      * Solution: The proposed solution is [summarize the solution].
-     * Response: In my opinion, [state agreement/disagreement] because [reason].
+      * 10-15 seconds Problem: The reading and listening discuss a problem, which is [state the issue].
+      * 20-25 seconds  Solution: The proposed solution is [summarize the solution].
+     * 20-25 seconds  Response: In my opinion, [state agreement/disagreement] because [reason].
      * Example (Optional): For instance, [provide a brief supporting example if needed].
    
 ## Q3/4 Integrated speaking (0-4)
