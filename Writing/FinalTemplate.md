@@ -40,7 +40,10 @@ The Independent Writing Task requires you to present your opinion on a given top
 
 **Introduction**  
 - [Hook or general statement about the topic].  
-- I strongly believe that [your opinion]. This is because [Reason 1] and [Reason 2].  
+- I strongly believe that [your opinion]. This is because [Reason 1] and [Reason 2].
+
+  or
+  I strongly believe that <>. This is because of the following reasons. 
 
 **Body Paragraph 1**  
 - First of all, [Reason 1].  
