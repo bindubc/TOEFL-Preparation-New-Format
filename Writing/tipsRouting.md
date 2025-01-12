@@ -5,7 +5,7 @@
 - practise main idea
 - practise summarize
 -  revise the para as soon as you finish writing, ==> so target to  to coomple in 10 min ( 5, 5,5 ) => q2
--  dont miss conclusion  => first  draft 1st,conclusion para then move on 2,3 para
+-  dont miss conclusion, use of transistion words  => first  draft 1st,conclusion para then move on 2,3 para
 ### Inetgrated Writing = 0-5
 
 #### Format:
