@@ -1,6 +1,10 @@
+
+
 Here are **templates** for the different tasks in the new TOEFL iBT Speaking section. These templates provide a clear structure to help you organize your responses effectively.
 
 ---
+
+NOTE:  15SEC PREPRATION TIME, TRY TO DO REHEARSAL 
 
 ### **1. Independent Task Template (Familiar Topics)**  
 This task asks for your opinion on a familiar topic.
