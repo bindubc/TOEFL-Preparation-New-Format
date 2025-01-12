@@ -13,3 +13,6 @@ Todo:
 ##### https://github.com/aymenkrifa/TOEFL-must-know-word-flashcards/blob/main/data/toefl_must_known_words.csv 
 ##### https://github.com/shreya-chem/GRE-TOEFL-Preparation/blob/main/TOEFL%20Preparation.pdf 
 ##### https://github.com/RohanKarthikeyan/TOEFL-Material 
+
+Vocubalry Set:
+- https://quizlet.com/search?query=toefl&type=all 
