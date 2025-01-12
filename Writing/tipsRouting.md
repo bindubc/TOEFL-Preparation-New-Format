@@ -6,6 +6,14 @@
 - practise summarize
 -  revise the para as soon as you finish writing, ==> so target to  to coomple in 10 min ( 5, 5,5 ) => q2
 -  dont miss conclusion, use of transistion words  => first  draft 1st,conclusion para then move on 2,3 para
+
+
+| reason1<creativity and grasping concepts> | reason 2 <knowldege retention> |
+| ------ | ------ |
+|   ... ... ... .... ... lab excerise with real worlds problems | ... ... ... ..  revise 3 sub in 2 hours and 6hours |
+| As result, innovation , vision improved  | As result, excel at academic 
+
+Frame max 3/4 statement out of this 
 ### Inetgrated Writing = 0-5
 
 #### Format:
