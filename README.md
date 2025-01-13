@@ -6,7 +6,9 @@ Test Ready Link: https://testready.ets.org/test-prep-library
 
 Wordlist : 
 * https://www.englishvocabularyexercises.com/subcategories/VQvdu2OoscCzjxPk1C5s
-* https://toefl.magoosh.com/flashcards/vocabulary/decks 
+* https://toefl.magoosh.com/flashcards/vocabulary/decks
+* https://elsaspeak.com/en/experience/#/feedback
+* https://quizlet.com/search?query=toefl&type=all
 
            
            
